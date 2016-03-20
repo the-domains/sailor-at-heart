@@ -1,14 +1,26 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.04714488
 color:
-  saturation: 0.3272534
-  lightness: 0.7597512
+  saturation: 0.6
   brandStrength: 0.3170021
-  rhythmicContrast: 0.4018412
+  lightness: 0.7597512
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-typography_spectrum: 0.04714488
+  rhythmicContrast: 0
+layout_spectrum: 0
 name: Sailor At Heart
