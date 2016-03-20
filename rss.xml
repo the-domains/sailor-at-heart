@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sailor At Heart]]></title>
+        <description><![CDATA[Sailor At Heart]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 12:51:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Corner Brook, NL]]></title>
+            <description><![CDATA[<article><h1>Corner Brook, NL</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47a16558-593d-4180-8844-b69bb09a695c.png"></article>]]></description>
+            <link>undefinedcorner-brook-nl/index.html</link>
+            <guid isPermaLink="false">18507cbd-902b-4116-9750-0eb231c340fe</guid>
+            <pubDate>Sun, 20 Mar 2016 12:51:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
