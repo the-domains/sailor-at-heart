@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.3272534
+  lightness: 0.7597512
+  brandStrength: 0.3170021
+  rhythmicContrast: 0.4018412
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.04714488
+name: Sailor At Heart
