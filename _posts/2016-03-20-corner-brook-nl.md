@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I'm a Newfoundlander born and bred and I'll be one 'til I die.\_- \"The Islander\"\_"
-datePublished: '2016-03-25T13:07:02.406Z'
-dateModified: '2016-03-21T02:18:17.288Z'
+datePublished: '2016-03-25T13:09:02.941Z'
+dateModified: '2016-03-25T13:09:02.588Z'
 author: []
 title: 'Corner Brook, NL'
 sourcePath: _posts/2016-03-20-corner-brook-nl.md
@@ -26,4 +26,4 @@ _type: Article
 # Corner Brook, NL
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47a16558-593d-4180-8844-b69bb09a695c.png)
 
-I'm a Newfoundlander born and bred and I'll be one 'til I die. - "The Islander"
+> I'm a Newfoundlander born and bred and I'll be one 'til I die.
